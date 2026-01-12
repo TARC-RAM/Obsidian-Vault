@@ -1,0 +1,1 @@
+An object is an instance of a [[class]] that has its own state and identity, and uses the class’s methods.
