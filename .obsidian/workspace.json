@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7413c603d6fdcef1",
+        "id": "4910bdd9e243a5bc",
         "type": "tabs",
         "children": [
           {
-            "id": "6c72202ad0378b90",
+            "id": "62ebcf4b4031d152",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AMCS2204/Class.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Class"
             }
           }
         ]
@@ -177,8 +181,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba7160101dc83fb2",
+  "active": "62ebcf4b4031d152",
   "lastOpenFiles": [
+    "AMCS2204/Object.md",
+    "AMCS2204/Object-Oriented Programming.md",
+    "AMCS2204/Class.md",
+    "AMCS2204/Computer Program.md",
+    "Python.md",
+    "Untitled.md",
+    "AJEL1723/test1",
     "AMIS1013.md",
     "Github/Untitled.md",
     "AJEL1723",
