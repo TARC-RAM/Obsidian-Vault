@@ -1,0 +1,6 @@
+- Desktop Computer
+- Laptop
+- Printer
+- IP Phone
+- Wireless Tablet
+- TelePresence Endpoint
