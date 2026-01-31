@@ -1,0 +1,4 @@
+- **Purpose:** Deliver products to customers faster while reducing time, redundant effort, and inventory costs.
+- **Responsibilities:** Manage the buying, production, and movement of products.
+- **Integration:** Connect suppliers, manufacturers, distributors, retailers, and customers.
+- **Network of facilities:** Oversee facilities involved in procuring, transforming, and distributing products.

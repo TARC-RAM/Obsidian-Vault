@@ -1,0 +1,23 @@
+- Operating Systems (OS) - Manages both the computer hardware and software resources of a computer system
+	- Linux
+	- Unix
+	- Windows
+	- Network OS
+- Database Management System (DBMS) - Manage data stored
+	- Oracle
+	- DB2
+	- SyBase
+- Software Development Tools - Support programmers in developing programs
+	- Translators 
+		- Compilers
+	- Tools 
+		- Case tool (Computer-Aided Software Engineering) - Automate, manage and support various phases of the [[System Development Life Cycle (SDLC)]]
+	- Programming languages 
+		- Python
+		- C
+- Application System - Supports the running of the various business processes
+	- Sales
+	- Purchasing
+	- Warehousing
+	  Manufacturing
+	- HR Systems

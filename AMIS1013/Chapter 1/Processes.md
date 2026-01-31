@@ -1,0 +1,11 @@
+- Consist of activities or tasks supported by the applications.
+	- Examples include:
+		- Create PO,
+		- Make payments
+		- Receive goods
+- Contains steps that tell people *How* to *use* and *operate* the system to perform tasks/activities involving data
+	- Example – Inventory Control System needs procedures:
+		- How to enter transaction data
+		- How to process the data into information
+		- How to retrieve the information from the system.
+		- How to operate the hardware and software

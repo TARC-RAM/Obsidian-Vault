@@ -1,0 +1,20 @@
+- Servers 
+	- Mini-Computers
+	- Mainframes
+- Clients
+	- PC
+	- Smartphone
+	  Laptop
+	- ATM
+- Network infrastructure
+	- Wire
+	- Modems
+	- Hubs
+	- Routers
+	- Switches
+- Peripherals - Input, Output, Storage devices
+	- Digital Cameras
+	- Microphones
+	- Printers
+	- Readers
+	- Sensors

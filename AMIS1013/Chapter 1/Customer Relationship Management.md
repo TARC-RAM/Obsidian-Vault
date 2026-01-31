@@ -1,0 +1,16 @@
+- Uses technology (data mining) to look (analyse) at customers from a multifaced perspectives (eg. buy patters, habits, income)
+- Uses a set of integrated applications to address all issues about customers relationship in sales, marketing and service.
+## Typical modules of Customer Relationship Management
+- CRM systems consist of a family of software modules that perform business activities involved mainly in **FRONT OFFICE** processes.
+- Marketing and Fulfillment - CRM automates various tasks related to *pre-selling* activities
+	- Qualifying leads
+	- Scheduling sales contacts with customers
+	- Providing information
+- Sales
+	- Helps to answer inquiries
+	- create quotations
+	- accept orders from customers
+	- Carry out up-selling and cross-selling tasks.
+- Customer service and support - Helps in post-selling activities to provide good customer service
+	- Creation of service requests
+	- Assign qualified personnel

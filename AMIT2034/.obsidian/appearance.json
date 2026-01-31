@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "accentColor": "#8c00ff",
+  "baseFontSize": 26,
+  "baseFontSizeAction": true
+}

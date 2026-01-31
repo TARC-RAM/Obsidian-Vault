@@ -1,1 +1,6 @@
-{}
+{
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
+  "accentColor": "#8000ff",
+  "baseFontSize": 24
+}

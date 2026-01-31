@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Systems Used.md",
+                "file": "Chapter 1/Information System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Systems Used"
+              "title": "Information System"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Systems Used.md",
+                "file": "Our Case Study Organisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Current Systems Used"
+              "title": "Backlinks for Our Case Study Organisation"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current Systems Used.md",
+                "file": "Our Case Study Organisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Current Systems Used"
+              "title": "Outgoing links from Our Case Study Organisation"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Systems Used.md",
+                "file": "Our Case Study Organisation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Current Systems Used"
+              "title": "Outline of Our Case Study Organisation"
             }
           }
         ]
@@ -183,19 +183,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f553d8ee5d4d3fa",
+  "active": "5d49d7636abf2d4b",
   "lastOpenFiles": [
+    "Chapter 1/Information System.md",
+    "Untitled.md",
+    "Chapter 1/Organisation Levels.md",
+    "Chapter 1/Organisation Structure.md",
+    "Chapter 1/Customer Relationship Management.md",
+    "Chapter 1/Enterprise Resource Planning.md",
+    "Chapter 1/Software.md",
+    "Chapter 1/Processes.md",
+    "Chapter 1/System Development Life Cycle (SDLC).md",
+    "Chapter 1/Supply Chain Management.md",
+    "Chapter 1/Tables (Master or Transaction).md",
+    "Chapter 1/Hardware.md",
+    "Chapter 1/Pasted image 20260129222906.png",
+    "Chapter 1/People.md",
+    "Chapter 1/Data.md",
+    "Chapter 1",
+    "Hotel_Org_Struct.drawio.png",
     "Our Case Study Organisation.md",
-    "Current Systems Used.md",
-    "Organisation Structure.md",
-    "What is a Hotel Organizational Structure.md",
     "Importance Of Organizational Structure.md",
+    "Current Systems Used.md",
+    "What is a Hotel Organizational Structure.md",
     "Hotel System.md",
     "Pasted image 20260128105533.png",
     "Pasted image 20260128105218.png",
     "Pasted image 20260128105150.png",
     "Pasted image 20260128105147.png",
-    "Pasted image 20260128105137.png",
-    "Untitled"
+    "Pasted image 20260128105137.png"
   ]
 }

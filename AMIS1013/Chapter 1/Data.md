@@ -1,0 +1,16 @@
+- Example of data
+	- Files
+	- [[Tables (Master or Transaction)]]
+	- Documents
+	- Multimedia
+Data that is processed by the software, stored in the hardware and used by the people.
+- Example - Inventory Control System:
+	- Master File (Stock File)
+		- Stock code
+		- Name
+		- Unit of measurement
+		- Quantity
+		- Unit Price
+	- Transaction File (Goods Received File)
+		- Goods received number
+		- Date receive

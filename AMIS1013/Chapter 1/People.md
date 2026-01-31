@@ -1,0 +1,11 @@
+- People are needed to run the system.
+	- Input data into the system (Users)
+	- Receive output information to make decisions (Management)
+	- Operate the hardware and software (Operation staff)
+- Example - Inventory Control System
+	- Users and Management
+		- Salesperson (Check stock)
+		- Purchasers (Check Stock)
+		- Storehands (Receive and distribute goods)
+		- Store Manager (Create inventory reports)
+	- Operation staff - Personnel operate the hardware and software in the system
