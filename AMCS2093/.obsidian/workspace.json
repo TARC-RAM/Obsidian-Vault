@@ -11,17 +11,30 @@
             "id": "043c0f347adc1cf0",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Chapter 1/Pasted image 20260213174021.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260213174021"
+            }
+          },
+          {
+            "id": "5bd2e6557336d54f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1/Chapter 1 - OS Overview.md",
+                "file": "Chapter 2 - OS Processor Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - OS Overview"
+              "title": "Chapter 2 - OS Processor Management"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +196,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "043c0f347adc1cf0",
+  "active": "5bd2e6557336d54f",
   "lastOpenFiles": [
-    "Pasted image 20260202210809.png",
-    "Chapter 1/Chapter 1 - OS Overview.md",
     "AMCS2093 Operating Systems.md",
+    "Chapter 2 - OS Processor Management.md",
+    "Chapter 1/Pasted image 20260213181246.png",
+    "Chapter 1/Pasted image 20260213153433.png",
+    "Chapter 1/Pasted image 20260213174021.png",
+    "Chapter 1/Chapter 1 - OS Overview.md",
+    "Chapter 1/Pasted image 20260213175711.png",
+    "Chapter 1/Pasted image 20260213175637.png",
+    "Chapter 1/Pasted image 20260213153342.png",
+    "Chapter 1/Pasted image 20260213153131.png",
+    "Chapter 1/Pasted image 20260202210809.png",
     "Chapter 1"
   ]
 }

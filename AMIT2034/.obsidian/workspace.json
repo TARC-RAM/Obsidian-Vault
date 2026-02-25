@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd4980b4c687dd5b",
+        "id": "b47670164548b7c2",
         "type": "tabs",
         "children": [
           {
-            "id": "7db87d904f31a8ee",
+            "id": "0e99105bc8a63e44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Issues of Network Management.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Issues of Network Management"
+              "title": "New tab"
             }
           }
         ]
@@ -183,29 +179,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "7db87d904f31a8ee",
+  "active": "0e99105bc8a63e44",
   "lastOpenFiles": [
+    "Chapter 3/Physical Layer (OSI MODEL).md",
+    "Chapter 3/Pasted image 20260223131959.png",
+    "Chapter 4",
+    "Chapter 3/Pasted image 20260223133304.png",
+    "Chapter 3/Pasted image 20260223141559.png",
+    "Chapter 3/Pasted image 20260223141546.png",
+    "Chapter 3/Pasted image 20260223134809.png",
+    "Chapter 3/Pasted image 20260223133509.png",
+    "Chapter 3/Pasted image 20260223133331.png",
+    "Chapter 3/Pasted image 20260223131945.png",
+    "Chapter 3/Pasted image 20260223131929.png",
+    "Chapter 3/Pasted image 20260223131644.png",
+    "Chapter 2/Last Year Midterm.md",
+    "Chapter 3",
+    "Chapter 2/Issues of Network Management.md",
+    "Chapter 1/Business DSL.md",
     "Chapter 1/Introduction to Networks.md",
-    "Issues of Network Management.md",
     "Chapter 1/Internet Connections.md",
     "Chapter 1/Network Components and Topologies.md",
     "Chapter 1/Network Trends.md",
     "Chapter 1/Reliable networks.md",
-    "Chapter 1/Pasted image 20260209195406.png",
-    "Chapter 1/Pasted image 20260209195150.png",
-    "Chapter 1/Pasted image 20260209194852.png",
-    "Chapter 1/Pasted image 20260209194846.png",
     "Chapter 1/WAN.md",
     "Chapter 1/Types of Networks.md",
     "Chapter 1/Network Representations and Topologies.md",
     "Chapter 1/NETWORK INTERFACES.md",
     "Chapter 1/LAN.md",
-    "Last Year Midterm.md",
     "Chapter 2",
     "Chapter 1/Web Servers.md",
     "Chapter 1/Network Media.md",
     "Chapter 1/Dedicated Leased Line.md",
-    "Chapter 1/Business DSL.md",
     "Untitled/testeqwe.md",
     "Untitled/test.md",
     "Chapter 1/IETF.md",

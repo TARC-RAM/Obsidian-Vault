@@ -1,7 +1,7 @@
 {
   "theme": "system",
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "accentColor": "#8c00ff",
-  "baseFontSize": 26,
+  "baseFontSize": 23,
   "baseFontSizeAction": true
 }

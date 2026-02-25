@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "53bfeb68402308ca",
+        "id": "0e83ef0ef6063587",
         "type": "tabs",
         "children": [
           {
-            "id": "88d0ac1c3dba5b01",
+            "id": "5595a1a3ed644571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical 1/P1Q1.md",
+                "file": "Chapter 4/Objects and Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P1Q1"
-            }
-          },
-          {
-            "id": "831a3e72f640983a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1/Object-Oriented Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Object-Oriented Programming"
-            }
-          },
-          {
-            "id": "43f1f381b3347e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1/Object-Oriented Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Object-Oriented Programming"
-            }
-          },
-          {
-            "id": "c398bc19989a48bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1/Introduction to Object-Oriented Programming Techniques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Object-Oriented Programming Techniques"
+              "title": "Objects and Classes"
             }
           }
         ]
@@ -82,8 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -120,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "right": {
     "id": "e5a462d3fab03f07",
@@ -227,13 +185,28 @@
   },
   "active": "44fecd8aa35910fa",
   "lastOpenFiles": [
-    "Chapter 1/Object-Oriented Programming.md",
+    "Chapter 4/Pasted image 20260225131141.png",
+    "Chapter 4/Pasted image 20260225130259.png",
+    "Chapter 4/Pasted image 20260225124344.png",
+    "Chapter 4/Objects and Classes.md",
+    "Chapter 4/Pasted image 20260225124324.png",
+    "Chapter 4/Pasted image 20260225124147.png",
+    "Chapter 4/Pasted image 20260225121547.png",
     "Chapter 1/Introduction to Object-Oriented Programming Techniques.md",
-    "Chapter 1/Computer Program.md",
-    "Chapter 1/Object.md",
-    "Practical 1/P1Q1.md",
-    "Chapter 2",
     "Chapter 1/Class.md",
+    "Chapter 1/Computer Program.md",
+    "Chapter 1/Object-Oriented Programming.md",
+    "Chapter 1/Object.md",
+    "Chapter 3/Arrays.md",
+    "Chapter 4",
+    "Chapter 3/Pasted image 20260211121726.png",
+    "Practical 1/P1Q1.md",
+    "Chapter 3/Pasted image 20260211144939.png",
+    "Chapter 3/Pasted image 20260211144903.png",
+    "Chapter 3/Pasted image 20260211140246.png",
+    "Chapter 3/Pasted image 20260211125258.png",
+    "Chapter 3",
+    "Chapter 2",
     "Chapter 1",
     "Practical 1"
   ]
