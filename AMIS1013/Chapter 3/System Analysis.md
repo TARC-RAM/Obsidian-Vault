@@ -104,13 +104,14 @@
 # Functional Requirements
 - Refers to the (functionalities) that the system is expected to provide eg create PO (for Purchasing System).
 - Described in detail (how) the functionalities are used to support a business process, activities or tasks being carried out including inputs, process, outputs and stored data.
-## Example of Functional Requirements
+## Example of Functional Requirements 
+**(Based on the scenario and question)**
 # Sales System
 - Enquiries
 	- Receive & Answer enquiries
 - Quotations
-- Receive RFQ
-- Create & send quotations
+	- Receive RFQ
+	- Create & send quotations
 # Non-Functional Requirements
 ## Example 1 : Interfaces with other systems
 - With other systems - There is an increasing need for applications to receive data from one system and to supply it to another.
@@ -154,3 +155,15 @@
 	- Important in some industries
 		- Life-support systems
 		- Attack and defend systems
+# Example 6 : Reliability
+- Measures
+	- System's ability to perform and continue to perform its functions without failure
+	- Systems which are not reliable break down frequently.
+- Consequences
+	- System out of service brings hardship to the users and others eg. customers.
+- Reasons for not being reliable
+	- Insufficient testing
+	- Poor design
+- Important in some industries
+	- Life-support systems
+	- Attack and defend systems

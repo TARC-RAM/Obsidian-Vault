@@ -5,6 +5,10 @@ Array is a data structure that represents a collection of the same types of data
 	- Example: double[] myList //Preferred style
 - datatype arrayRefVar[];
 	- Example: double myList[]; //Not Preferred
+```Java
+dataType[] arrName; //Declare
+``1``
+```
 ## Creating Arrays
 The declaration of an array does not allocate any space in memory for the array.
 The array variable only creates a storage location for the *Reference to the array*
@@ -20,7 +24,7 @@ To create an array, use the **new** operator.
   ```
 - Example
   ```Java
-  double[] myList; //Currently Null
+  double[] myList; //Currently Null.Declaration
   
   myList = new double [10]; //size of the array is now 10 (0 - 9)
   ```
@@ -28,7 +32,9 @@ To create an array, use the **new** operator.
 You can also combine Array declaration and creation.
 ```Java
 datatype[] arrayRefVar = new datatype[arraySize];
+datatype arrayRefVar[] = new datatype[arraySize]; 
 
+double[] mylist = new double[10]; 
 double myList[] = new double[10];
 ```
 ![[Pasted image 20260211122205.png]]

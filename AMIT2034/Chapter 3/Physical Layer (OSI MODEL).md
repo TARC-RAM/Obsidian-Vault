@@ -1,3 +1,47 @@
+# 3.0 Purpose of the Physical Layer
+### The Physical Connection
+- Before any network communications can occur, a physical connection to a local network must be established.
+- This connection would be wired or wireless, depending on the setup of the network.
+- This generally applies whether you are considering a corporate office or a home.
+- A Network Interface Card (NIC) connects a device to the network.
+- Some devices may have just one NIC, while others may have multiple NICs (Wired and/or Wireless, for example).
+- Not all physical connections offer the same level of performance.
+![[Pasted image 20260304110113.png]]
+
+- Transports bits across the network media
+- Accepts a complete frame from the Data Link Layer and encodes it as a series of signals that are transmitted to the local media
+- This is the last step in the encapsulation process
+- The next device in the path to the destination receives the bits and re-encapsulates the frame, then decides what to do with it.
+# 3.1 Physical Layer Characteristics
+### Physical Layer Standards
+- International Organization for Standardization (ISO)
+- Telecommunications Industry Association/Electronic Industries Association (TIA/EIA)
+- International Telecommunication Union (ITU)
+- American National Standards Institute (ANSI)
+- Institute of Electrical and Electronics Engineers (IEEE)
+### Physical Components
+Physical Layer standards address three functional areas:
+- Physical Components
+- Encoding
+- Signaling
+The Physical Components are the hardware devices, media, and other connectors that transmit the signals that represent the bits.
+- Hardware components like NICs, interfaces and connectors, cable materials, and cable designs are all specified in standards associated with the physical layer.
+### Encoding
+- Encoding converts the stream of bits into a format recognizable by the next device in the network path.
+- This 'coding' provides predictable patterns that can be recognized by the next device.
+- Examples of encoding methods include Manchester (shown in the figure), 4B/5B, and 8B/10B.
+![[Pasted image 20260304110952.png]]
+### Signaling 
+- The signaling method is how the bit values, "1" and "0" are represented on the physical medium.
+- The method of signaling will vary based on the type of medium being used.
+![[Pasted image 20260304111115.png]]
+![[Pasted image 20260304111130.png]]
+![[Pasted image 20260304111145.png]]
+### Bandwidth
+- Bandwidth is the capacity at which a medium can carry data.
+- Digital bandwidth measures the amount of data that can flow from one place to another in a given amount of time; how many bits can be transmitted in a second. 
+- Physical media properties, current technologies, and the law of physics play a role in determining available bandwidth.
+
 # 3.2 Network Media
 ## 3.2.1 Copper Cabling
 Characteristics
@@ -84,3 +128,15 @@ It carries electromagnetic signals representing binary digits using radio or mic
 | Interference  | Wireless is susceptible to interference and can be disrupted by many common devices                                                                                                    |
 | Security      | Wireless communication coverage requires no access to physical strand of media, so anyone can gain access to the transmission                                                          |
 | Shared medium | WLANs operate in half-duplex, which means only one can devices can send or receive at a time. Many users accessing the WLAN simultaneously results in reduced bandwidth for each user. |
+### Types of Wireless Media
+The IEEE and telecommunications industry standards for wireless data communications cover both the data link and physical layers. In each of these standards, physical layer specifications dictate:
+- Data to radio signal encoding methods
+- Frequency and power of transmission
+- Signal reception and decoding requirements
+- Antenna design and construction
+
+#### Wireless Standards:
+- Wi-Fi (IEEE 802.11) - Wireless LAN (WLAN) technology)
+- Bluetooth (IEEE 802.15) Wireless Personal Area network (WPAN) standard
+- WiMAX (IEEE 802.16) - Uses a point-to-multipoint topology to provide broadband wireless access
+- Zigbee (IEEE 802.15.4) - Low data-rate, low power-consumption communications, primarily for internet of Things (IoT) applications

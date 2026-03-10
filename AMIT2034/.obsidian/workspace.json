@@ -11,13 +11,60 @@
             "id": "0e99105bc8a63e44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/Physical Layer (OSI MODEL).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Physical Layer (OSI MODEL)"
+            }
+          },
+          {
+            "id": "dabddbf499ee1c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/Physical Layer (OSI MODEL).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical Layer (OSI MODEL)"
+            }
+          },
+          {
+            "id": "deefaf882176feba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 6/Chapter 6 - IPv4 Addressing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 6 - IPv4 Addressing"
+            }
+          },
+          {
+            "id": "c5491e52631d4a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/Physical Layer (OSI MODEL).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical Layer (OSI MODEL)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,8 +96,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "Switch access methods and technologies",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -179,48 +226,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e99105bc8a63e44",
+  "active": "dabddbf499ee1c16",
   "lastOpenFiles": [
+    "Date for tests and practical.md",
+    "Chapter 4/Data Link Layer (OSI Model).md",
+    "Chapter 1/Introduction to Networks.md",
+    "Chapter 1/Network Components and Topologies.md",
+    "Chapter 1/LAN.md",
+    "Chapter 1/NETWORK INTERFACES.md",
+    "Chapter 1/IETF.md",
+    "Chapter 1/Network Representations and Topologies.md",
+    "Chapter 1/Business DSL.md",
+    "Chapter 1/Network Media.md",
+    "Chapter 5/Chapter 5 - Ethernet.md",
     "Chapter 3/Physical Layer (OSI MODEL).md",
-    "Chapter 3/Pasted image 20260223131959.png",
+    "Chapter 6/Chapter 6 - IPv4 Addressing.md",
+    "Chapter 6/6_IMG/Pasted image 20260309135021.png",
+    "Chapter 6/6_IMG/Pasted image 20260309171439.png",
+    "Chapter 6/6_IMG/Pasted image 20260309171340.png",
+    "Chapter 6/6_IMG/Pasted image 20260309144330.png",
+    "Chapter 6/6_IMG/Pasted image 20260309144147.png",
+    "Chapter 6/6_IMG/Pasted image 20260309135640.png",
+    "Chapter 6/6_IMG/Pasted image 20260309135553.png",
+    "Chapter 6/6_IMG/Pasted image 20260309135403.png",
+    "Chapter 6/6_IMG/Pasted image 20260309131851.png",
+    "Chapter 6/6_IMG",
+    "Chapter 6/6_IMG/Pasted image 20260309133640.png",
+    "Chapter 6",
+    "Chapter 4/4_IMG",
+    "Chapter 5/5_IMG",
+    "Untitled 1",
+    "Chapter 3/3_Images",
+    "Chapter 5",
     "Chapter 4",
-    "Chapter 3/Pasted image 20260223133304.png",
-    "Chapter 3/Pasted image 20260223141559.png",
-    "Chapter 3/Pasted image 20260223141546.png",
-    "Chapter 3/Pasted image 20260223134809.png",
-    "Chapter 3/Pasted image 20260223133509.png",
-    "Chapter 3/Pasted image 20260223133331.png",
-    "Chapter 3/Pasted image 20260223131945.png",
-    "Chapter 3/Pasted image 20260223131929.png",
-    "Chapter 3/Pasted image 20260223131644.png",
     "Chapter 2/Last Year Midterm.md",
     "Chapter 3",
     "Chapter 2/Issues of Network Management.md",
-    "Chapter 1/Business DSL.md",
-    "Chapter 1/Introduction to Networks.md",
     "Chapter 1/Internet Connections.md",
-    "Chapter 1/Network Components and Topologies.md",
     "Chapter 1/Network Trends.md",
     "Chapter 1/Reliable networks.md",
     "Chapter 1/WAN.md",
     "Chapter 1/Types of Networks.md",
-    "Chapter 1/Network Representations and Topologies.md",
-    "Chapter 1/NETWORK INTERFACES.md",
-    "Chapter 1/LAN.md",
     "Chapter 2",
     "Chapter 1/Web Servers.md",
-    "Chapter 1/Network Media.md",
     "Chapter 1/Dedicated Leased Line.md",
     "Untitled/testeqwe.md",
     "Untitled/test.md",
-    "Chapter 1/IETF.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Chapter 1/Email Servers.md",
-    "Chapter 1/End Devices.md",
-    "Chapter 1/Centralized Administration.md",
-    "Intermediary Devices.md",
-    "Chapter 1/File Servers.md",
-    "Chapter 1"
+    "Chapter 1/Email Servers.md"
   ]
 }

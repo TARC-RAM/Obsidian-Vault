@@ -120,3 +120,17 @@ public class <class name>{
 	Method 2
 }
 ```
+# Class Methods (1)
+- Methods are subroutines
+	- What the class can do or perform.
+	- They provide access to and manipulate the data members of the class.
+# Constructors
+- Constructors are a special kind of method that are invoked to construct objects.
+- A constructor with no parameters is referred to as a no-org constructor
+- Constructors must have the same name as the class itself.
+- Constructors do not have a return type - not even void.
+# Creating Objects Using Constructors
+- Constructors are invoked using the new operator when an object is created. Constructors play the role of initializing objects.
+# Default Constructor
+- A class may be declared without constructors. In this case, a no-arg constructor with an empty body is implicitly declared in the class.
+- This constructor, called a default constructor, is provided automatically only if no constructors are explicitly declared in the class.

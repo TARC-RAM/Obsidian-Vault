@@ -61,6 +61,8 @@ For example:
 		- Data inputs - The ability to accurately enter and process a large number of inputs, such as examination marks
 		- Response Time - The ability to provide a response to a request (i.e request from a customer for an insurance quotation) as soon as possible
 		- Outputs - The ability to produce certain outputs, such as examination results by a certain deadline.
+		- Integration - Ensure that there is no issue when integrating with 3rd party software (I.E Third-Party payment gateway)
+		- Infrastructure - Assessing whether the existing servers, network, storage, and hardware can handle the system's operational demands.
 2) Social and Operation Feasibility
 	- Assessing whether the project can be implemented into the existing social and operational structure of the organization.
 	- Identifying any additional costs that may be incurred (eg. cost of staff re-training, redundancies) or new benefits.
@@ -92,6 +94,11 @@ For example:
 | Software       | Operating System<br>Database Management System (DBMS)<br>Programming tools<br>Application software (eg Enterprise System)                                                 |
 | Purchase       | System Planning<br>System Analysis (brief)<br>Software Evaluation and Selection<br>System Design (BPR + configuration)<br>System Development (customization and testings) |
 | Implementation | Installation (for hardware and software)<br>Data Migration<br>Training<br>System changeover                                                                               |
+# Intangible Costs
+- Software costs – OS (eg Unix), DBMS (eg Oracle), Software development tools (eg CASE tools)
+- Hardware costs – Server, Clients (eg PCs), Network Infrastructure (eg. modem, cable)
+- Development costs – System planning, system analysis, system design, system development.
+- Implementation costs – Installation, data migration, training, changeover
 # Intangible Costs
 - Learning curve costs - Staff need to learn how the system operates. During the learning curve, staff become slower and make more mistakes.
 - Dysfunctional costs - Staff dissatisfaction and dysfunctional behavior eg. scolding customers, come late
