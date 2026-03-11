@@ -1,13 +1,17 @@
 Practical Week 12
 Mid term Week 8
-- Network Media - Chapter 1
-- Switch Forwarding - Chapter 5
-- ARP Process - Chapter 5
-- OSI Layers - Chapter 2 & 3
-- Switch access methods and Technologies - Chapter 4
-- Intranet & Extranet internet - Chapter 1
-- Internet Frames - Chapter 4
-- Protocol Data Unit - Chapter 4
-- LAN & WAN - Chapter 1
-- Intermediary Device - Chapter 1
-- Bandwidth Throughput - Chapter 3
+
+- LAN, WAN → Chapter 1 (Networks of many sizes)
+- Intermediary Devices → Chapter 1 (Network components)
+- Network Media → Chapter 3 (Physical layer network media)
+  
+- Switch Forwarding & Learning → Chapter 5 (LAN switches)
+- ARP Process → Chapter 5 (ARP)
+- OSI Layers → Chapters 3–5 (Physical, Data Link, Ethernet)
+  
+- Switch Access Methods and Technologies → Chapter 4 (MAC / media access)
+- Internet, Intranet and Extranet → Chapter 1 (Intro tonetworks)
+  
+- Ethernet Frame → Chapter 5 (Ethernet frame fields)
+- PDU → Chapter 4 (Data Link frame/PDU structure)
+- Bandwidth Throughput & Goodput → Chapter 3 (Physical layer bandwidth/throughput/goodput)

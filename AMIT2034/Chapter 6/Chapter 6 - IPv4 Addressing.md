@@ -67,16 +67,19 @@
 ### Multicast
 - Multicast transmission is sending a packet to a multicast address group.
 - For example, the PC at 172.16.4.1 sends a multicast packet to the multicast group address 224.10.10.5
+  ![[Pasted image 20260311105539.png]]
 # 6.3 Types of IPv4 Addresses
 ### Public and Private IPv4 Addresses
 - As defined in RFC 1918, public IPv4 addresses are globally routed between internet service provider (ISP) routers.
 - Private addresses are common blocks of addresses used by most organizations to assign IPv4 addresses to internal hosts.
 - Private IPv4 addresses are not unique and can be used internally within any network.
 - However, private addresses are not globally routable.
+  ![[Pasted image 20260311105612.png]]
 ### Routing to the Internet
 - Network Address Translation (NAT) translates private IPv4 addresses to public IPv4 addresses.
 - NAT is typically enabled on the edge router connecting to the internet.
 - It translates the internal private address to a public global IP address.
+  ![[Pasted image 20260311105637.png]]
 ### Special Use IPv4 Addresses
 #### Loopback addresses
 - 127.0.0.0 /8 (127.0.0.1 to 127.255.255.254)
@@ -106,3 +109,41 @@ RFC 790 (1981) allocated IPv4 addresses in classes
 #### Assignment of IP Addresses
 - The Internet Assigned Numbers Authority (ANA) manages and allocates blocks of IPv4 and IPv6 addresses to five Regional Internet Registries (RIRs)
 - RIRs are responsible for allocating IP addresses to ISPs who provide IPv4 address blocks to smaller ISPs and organizations
+# Network Segmentation
+### Broadcast Domains and Segmentation
+- Many protocols use broadcasts or multicasts (e.g., ARP use broadcasts to locate other devices, hosts send DHCP discover broadcasts to locate a DHCP server.)
+- Switches propagate broadcasts out all interfaces except the interface on which it was received.
+- The only device that stops broadcasts is a router.
+- Routers do not propagate broadcasts. 
+- Each router interface connects to a broadcast domain and broadcasts are only propagated within that specific broadcast domain.
+  ![[Pasted image 20260311110038.png]]
+### Problems with Large Broadcast Domains
+- A problem with a large broadcast domain is that these hosts can generate excessive broadcasts and negatively affect the network.
+- The solution is to reduce the size of the network to create smaller broadcast domains in a process called subnetting.
+- Dividing the network address 172.16.0.0 /16 into two subnets of 200 users each: 172.16.0.0/24 and 172.16.1.0 /24. 
+- Broadcasts are only propagated within the smaller broadcast domains.
+  ![[Pasted image 20260311110215.png]]
+### Reasons for Segmenting Networks
+- Subnetting reduces overall network traffic and improves network performance.
+- It can be used to implement security policies between subnets.
+- Subnetting reduces the number of devices affected by abnormal broadcast traffic. 
+- Subnets are used for a variety of reasons including by:
+  ![[Pasted image 20260311110308.png]]
+# 6.4 Subnet an IPv4 Network
+### Subnet on an Octet Boundary
+- Networks are most easily subnetted at the octet boundary of /8, /16, and /24.
+- Notice that using longer prefix lengths decreases the number of hosts per subnet.
+Subnets are created by borrowing host bits for network bits More host bits borrowed, the more subnets that can be defined
+![[Pasted image 20260311110613.png]]
+### Subnetting on the Octet Boundary
+![[Pasted image 20260311110644.png]]
+- Subnetting Network 10.x.0.0/16
+- Define up to 256 subnets with each subnet capable of connecting 65,534 hosts.
+- First two octets identify the network portion while the last two octets are for host IP addresses.
+![[Pasted image 20260311110741.png]]
+- Subnetting Network 10.x.x.0/24
+- Define 65,536 subnets each capable of connecting 254 hosts.
+- /24 boundary is very popular in subnetting because of number of hosts.
+### Classless Subnetting
+![[Pasted image 20260311110857.png]]
+Subnets can borrow bits from any host bit position to create other masks.

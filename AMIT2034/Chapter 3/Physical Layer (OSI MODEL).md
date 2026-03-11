@@ -41,6 +41,17 @@ The Physical Components are the hardware devices, media, and other connectors th
 - Bandwidth is the capacity at which a medium can carry data.
 - Digital bandwidth measures the amount of data that can flow from one place to another in a given amount of time; how many bits can be transmitted in a second. 
 - Physical media properties, current technologies, and the law of physics play a role in determining available bandwidth.
+  ![[Pasted image 20260311112605.png]]
+#### Latency
+- Amount of time, including delays, for data to travel from one given point to another
+#### Throughput
+- The measure of the transfer of bits across the media over a given period of time
+- Usually does not match the specified bandwidth in physical layer implementations due to many factors.
+- Amount of traffic, Type of traffic, Latency created by network devices encountered between source and destination
+#### Goodput
+- The measure of usable data transferred over a given period of time
+- Goodput = Throughput- traffic overhead
+- traffic overhead for establishing sessions, acknowledgments, and encapsulation.
 
 # 3.2 Network Media
 ## 3.2.1 Copper Cabling

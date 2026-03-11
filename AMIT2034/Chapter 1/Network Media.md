@@ -1,3 +1,0 @@
-- Wireless Media
-- LAN Media
-- WAN Media
