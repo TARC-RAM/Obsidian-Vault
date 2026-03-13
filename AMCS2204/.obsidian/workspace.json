@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 4/Objects & Classes 3.md",
+                "file": "Midterm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objects & Classes 3"
+              "title": "Midterm"
             }
           }
         ]
@@ -185,10 +185,10 @@
   },
   "active": "fd476773b77898d4",
   "lastOpenFiles": [
+    "Chapter 4/Objects & Classes 3.md",
     "Chapter 4/Class Design Guideline.md",
     "Midterm.md",
     "Chapter 3/Arrays.md",
-    "Chapter 4/Objects & Classes 3.md",
     "Chapter 4/Procedural Programming.md",
     "Chapter 4/Visibility Modifiers (1).md",
     "Chapter 4/4_IMG/Pasted image 20260308180113.png",

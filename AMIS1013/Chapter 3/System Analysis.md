@@ -22,7 +22,7 @@
 # Advantages of Interviews
 - Overcome Resistance - Provides an opportunity to meet and overcome user resistance. It gets cooperation of people involved.
 - (Body language) - Interviews allow the analyst to observe the tone of the responses and body language which convey great deal of information.
-- (Clarify) Facts - Face-to-face interview allows the interviewer to verify and clarify the confusing facts.
+- (Clarify) Facts - Face-to-face interview allows the interviewer to verify and clarify the confusing facts. (Reduce Misunderstanding)
 - Build (Rapport) - Opportunity to develop rapport with users and to seek cooperation.
 - (Intimate) and Frank - People who would be unwilling to put critical or controversial comments in writing talk more freely in person.
 # Disadvantages of Interviews

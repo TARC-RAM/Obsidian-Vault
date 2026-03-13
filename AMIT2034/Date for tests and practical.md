@@ -13,5 +13,5 @@ Mid term Week 8
 - Internet, Intranet and Extranet → Chapter 1 (Intro tonetworks)
   
 - Ethernet Frame → Chapter 5 (Ethernet frame fields)
-- PDU → Chapter 4 (Data Link frame/PDU structure)
+- PDU → Chapter 4 & 2 (Data Link frame/PDU structure)
 - Bandwidth Throughput & Goodput → Chapter 3 (Physical layer bandwidth/throughput/goodput)
