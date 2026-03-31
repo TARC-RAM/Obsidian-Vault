@@ -189,9 +189,6 @@ When the destination IP address is on a remote network, the destination MAC addr
 - ARP Purpose
 	- Sending node needs a way to find the MAC address of the destination for a given Ethernet link
 	- To determine the destination MAC address, the device uses ARP
-- ARP Purpose
-	- Sending node needs a way to find the MAC address of the destination for a given Ethernet link
-	- To determine the destination MAC address, the device uses ARP
 - ARP provides two basic functions:
 	- Resolving IPv4 addresses to MAC addresses
 	- Maintaining an ARP table of IPv4 to MAC address mappings

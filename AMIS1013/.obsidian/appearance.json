@@ -1,6 +1,7 @@
 {
   "baseFontSizeAction": true,
-  "cssTheme": "",
+  "cssTheme": "Flexoki",
   "accentColor": "#8000ff",
-  "baseFontSize": 17
+  "baseFontSize": 22,
+  "theme": "obsidian"
 }

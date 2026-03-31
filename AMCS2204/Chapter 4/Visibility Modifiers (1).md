@@ -13,11 +13,15 @@
 - A client can retrieve and modify a data field by providing accessor and mutator methods.
 # Accessor/Mutator Methods
 - Accessor methods
+	- A method that **reads/returns** the value of a private field. 
+	- The name usually starts with `get`.
 	- Methods used to read private properties.
 		- Getter or get methods
 	- Has the following method signature:
 		- public returnType getPropertyName()
 - Mutator methods
+	- A method that **modifies** the value of a private field. 
+	- The name usually starts with `set`.
 	- Methods used to modify private properties.
 		- Setter or set methods.
 	- Has the following method signature:

@@ -11,14 +11,10 @@
             "id": "62ebcf4b4031d152",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMCS2093/AMCS2093 Operating Systems.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AMCS2093 Operating Systems"
+              "title": "New tab"
             }
           }
         ]

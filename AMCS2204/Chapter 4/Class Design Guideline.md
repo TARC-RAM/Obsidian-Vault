@@ -8,7 +8,7 @@
 	- Always provide a constructor and initialize variables to avoid programming errors.
 - Provide a public no-arg constructor
 # Encapsulation
-- Class should use the private modifier to hide its data from direct access by clientes
+- Class should use the private modifier to hide its data from direct access by clients
 	- Use get methods and set methods to provide access to private data.
 - A class should also hide methods not intended for client use.
 # Instance vs Static

@@ -1,1 +1,0 @@
-A _computer program_ in its human-readable form is called source code.
